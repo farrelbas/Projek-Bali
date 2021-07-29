@@ -1,0 +1,41 @@
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 10px solid #ff5100;
+}
+
+img {
+    max-width: 100%
+}
+
+.image {
+    flex-basis: 40%
+}
+
+.imgiconic {
+    border-radius: 10px;
+    height: 500px;
+    width: 1000px;
+}
+
+.imgpopup {
+    object-fit: fill;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+}
